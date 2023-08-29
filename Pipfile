@@ -6,6 +6,8 @@ name = "pypi"
 [packages]
 falcon = "*"
 cython = "*"
+waitress = "*"
+uvicorn = "*"
 
 [dev-packages]
 
