@@ -8,6 +8,8 @@ falcon = "*"
 cython = "*"
 waitress = "*"
 uvicorn = "*"
+requests = "*"
+httpie = "*"
 
 [dev-packages]
 autopep8 = "*"
